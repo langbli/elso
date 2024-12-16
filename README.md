@@ -89,7 +89,7 @@ for i in range(10):
 print("Vége")
 ```
 
-#Táblázat
+# Táblázat
 
 |Gyümölcs | Mennyiség |
 |---------|-----------|
@@ -114,7 +114,7 @@ Linkek
 
 - __[Media Markt](http://mediamarkt.hu/)__- MediaMarkt Magyarország
 
-- Automatikus link __(https://arpadszki.hu)__-
+- Automatikus link https://arpadszki.hu
 
 
 # Képek
@@ -123,12 +123,12 @@ Linkek
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-[Emoji](https://github.com/markdown-it/markdown-it-emoji)
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
 Jelek: :smirk: :disappointed_relieved: :satisfied: :stuck_out_tongue:
 
 
-[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 
 Forgalomirányító protokollok: 
 - RIP[^1]
