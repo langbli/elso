@@ -25,7 +25,6 @@ __Félkövér másként__
 *Dőlt*
 
 _Dőlt másként_
-
 ~~Áthúzott~~
 
 
@@ -128,8 +127,9 @@ Linkek
 Jelek: :smirk: :disappointed_relieved: :satisfied: :stuck_out_tongue:
 
 
-![Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
-Forgalomirányító protokollok:  
+[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
+
+Forgalomirányító protokollok: 
 - RIP[^1]
 - OSPF[^2]
 
