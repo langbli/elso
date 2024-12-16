@@ -122,7 +122,8 @@ Linkek
 ![Minion](https://octodex.github.com/images/minion.png)
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-![Emoji](https://github.com/markdown-it/markdown-it-emoji)
+
+[Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
 Jelek: :smirk: :disappointed_relieved: :satisfied: :stuck_out_tongue:
 
